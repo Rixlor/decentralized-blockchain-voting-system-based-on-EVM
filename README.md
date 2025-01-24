@@ -33,7 +33,7 @@ Here's a refined version of the development guide:
 **Clone the Repository**:
 
 ```bash
-git clone https://github.com/AOSSIE-Org/Agora-Blockchain
+git clone https://github.com/Rixlor/decentralized-blockchain-voting-system-based-on-EVM
 ```
 
 ## Backend
@@ -124,13 +124,6 @@ The `ElectionFactory` contract serves as the core component of the election crea
 - **Election Factory**: [Sepolia Testnet](https://sepolia.etherscan.io/address/0x64c720eBD5227bba57a5E8282893e71087cCcBb8#code)
 - **CCIP Contract**: [FUJI Testnet](https://testnet.snowtrace.io//address/0xf267f0603672E791779E52B153BD9A39C9928767#code)
 - **Frontend**: [Live URL](https://agora-blockchain.vercel.app/)
-
-## How to Contribute
-
-1. **Create an Issue**: For any feature requests, bugs, security concerns, or other issues, please create an issue in the repository and wait to be assigned before proceeding.
-2. **Branch Management**: Always create a new branch on your forked repository to commit your changes.
-3. **Pull Request Descriptions**: When submitting a pull request (PR), provide a detailed explanation in the description, outlining all changes and the reasons behind them.
-4. **Community Engagement**: Post your issues and PR updates on the Agora-Blockchain [Discord channel](https://discord.gg/HrJ6eKJ28a) for visibility and discussion.
 
 ## Additional Points to Remember
 
